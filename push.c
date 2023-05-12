@@ -1,5 +1,5 @@
 #include "monty.h"
-
+#include <ctype.h>
 /**
  * push - Adds a new node with a given value to the top of the stack.
  * @stack: A double pointer to the stack.
